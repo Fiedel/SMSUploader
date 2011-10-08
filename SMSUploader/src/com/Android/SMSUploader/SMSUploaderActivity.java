@@ -12,5 +12,7 @@ public class SMSUploaderActivity extends Activity {
         setContentView(R.layout.main);
     }
     
+    //Test the git connection..
+    
     
 }
